@@ -1,7 +1,4 @@
 # Quantum_Digit_Recognizer
-Leveraging TensorFlow Quantum and Cirq to build a Quantum Neural Network for Handwritten Digit Recognition. Achieved superior results on MNIST dataset, demonstrating the quantum advantage over classical counterparts. 
-Certainly! Here's a writeup for your GitHub project description:
-
 ---
 
 ## Overview
@@ -28,12 +25,3 @@ The Quantum Neural Network Handwritten Digit Recognizer achieves exceptional per
 - **Quantum Hardware:** Extend the project to run on real quantum hardware to test and validate the performance in a quantum computing environment.
 - **Quantum Data Sets:** Experiment with larger and more complex datasets to further evaluate the quantum neural network's capabilities.
 
-## Acknowledgements
-We acknowledge the contributions of the TensorFlow Quantum and Cirq communities for providing the tools and resources necessary to build and experiment with quantum machine learning models.
-
-## About the Author
-This project was developed by [Your Name] as a demonstration of the groundbreaking potential of quantum computing in image recognition. Feel free to reach out for questions or collaborations.
-
----
-
-Customize the writeup according to your specific project details, and best of luck with your GitHub project!
