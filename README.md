@@ -1,5 +1,4 @@
 # Quantum_Digit_Recognizer
----
 
 ## Overview
 This repository showcases a groundbreaking Handwritten Digit Recognizer powered by a Quantum Neural Network (QNN). Leveraging quantum computing principles, this project demonstrates the potential of Qubits and Quantum gates in image recognition tasks. The recognizer is implemented using TensorFlow Quantum and Cirq libraries and is tested on the MNIST dataset.
